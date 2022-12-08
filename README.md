@@ -1,2 +1,0 @@
-# begin-nodeapi
-Begin app
